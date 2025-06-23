@@ -1,7 +1,7 @@
 tasks = []
 
 def welcome():
-    print("Welcom to my to-do list!")
+    print("Welcome to my to-do list!")
     print("------------------------")
     print("1. Add task")
     print("2. View the task")
